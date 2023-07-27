@@ -36,6 +36,16 @@ public class Lexer {
 			add("*");
 			// functions
 			add("sqrt");
+			add("sin");
+			add("cos");
+			add("tan");
+			add("exp");
+			add("toDegrees");
+			add("toRadians");
+			add("log");
+			add("log10");
+			
+			
 			
 					
 		};
